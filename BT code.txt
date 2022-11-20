@@ -46,7 +46,7 @@ contract MyBank
 
 # Assignment 4
 # student mark management sytem
-
+// SPDX-License-Identifier: MIT
 // Solidity program to implement
 // the above approach
 pragma solidity >= 0.8.7;
